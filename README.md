@@ -1,2 +1,2 @@
-# energy
-SSSH energy class
+# 全球議題--能源
+這裡放著上課內容的投影片
